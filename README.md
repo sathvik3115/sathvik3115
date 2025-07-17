@@ -81,9 +81,9 @@
 ---
 
 ## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathvik3115&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
-</p>
+## <p align="center">
+##   <img src="https://github-profile-trophy.vercel.app/?username=sathvik3115&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
+## </p>
 
 ---
 
