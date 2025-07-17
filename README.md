@@ -2,7 +2,7 @@
 
 <!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sathvik+Vemula;3rd+Year+CS+Undergrad+%7C+AI+Developer;Full+Stack+%7C+Python+%7C+Django+%7C+React;Currently+building+FINANCOGRAM;Let's+connect+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Sathvik+Vemula;3rd+Year+CS+Undergrad+%7C+AI+Developer;Full+Stack+%7C+Python+%7C+Django+%7C+React;Currently+building+FINANCOGRAM;Let's+connect+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
