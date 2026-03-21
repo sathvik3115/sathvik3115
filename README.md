@@ -9,12 +9,10 @@
 
 # 💫 About Me:
 🎓 I'm a **3rd Year Computer Science Student** passionate about building AI-powered digital platforms.<br>  
-🚀 Currently working on **FINANCOGRAM** – An **AI-Powered Financial Platform**.<br>  
-🧠 Tech Enthusiast with a focus on **Full Stack Development, AI, and Python**.<br>  
+🚀 **AI/ML Engineer** at **NowOnline** Tech India Pvt Ltd.<br>  
+🧠 Tech Enthusiast with expertise in **AI, ML, Python**.<br>  
 🤝 Actively contributing to **Open Source Projects**.<br>  
 🏆 **Interests**: Athletics, Kho-Kho, Painting, Chess.<br>  
-🎨 **Hobbies**: Reading & Writing Novels, Trekking.<br>  
-
 ---
 
 ## 🌐 Connect with Me:
